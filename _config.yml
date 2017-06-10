@@ -1,0 +1,26 @@
+# top level stuff you probably don't need to touch
+
+
+
+
+# edit here to achieve your personal greatness
+url: http://robin.mektekbd.com
+baseurl: /robin/
+title: Nasimul Haque
+author: Nasimul Haque
+description: Personal blog and resume
+avatar: robin.jpg
+email: nasimulhaque.robin@gmail.com
+phone: +8801726945386
+facebook: nasimulhaque.robin.MekTek
+github: nasimulhaque # username
+twitter: 
+linkedin: nasimul-haque-a0a1b1144
+stackoverflow: users/8119213/nasimul-haque   #e.g: users/2735833/proton1h1
+#Comment out if you don't want disqus 
+disqus: MekTek
+google_analytics: UA-69391421-1
+
+
+# needed for travis-ci build
+exclude: [vendor]
